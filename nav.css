@@ -1,0 +1,154 @@
+html {
+    overflow: auto;
+    white-space: nowrap;
+}
+span {
+    visibility: hidden; 
+}
+nav { 
+    word-spacing: 30px; 
+    background-color: cadetblue;
+}
+#home {
+    color: white;
+    padding: 12px;
+    background-color: cadetblue;
+    
+}
+#home:hover {
+    cursor: pointer;
+    background-color: lightblue;
+    border: 1px solid cadetblue;
+}
+#list {
+    color: white;
+    padding: 12px;
+    background-color: cadetblue;
+}
+#list:hover {
+    cursor: pointer;
+    background-color: lightblue;
+    border: 1px solid cadetblue;
+}
+
+#plus {
+    color: white;
+    padding: 12px;
+    background-color: cadetblue;
+}
+
+#plus:hover {
+    cursor:pointer;
+    background-color: lightblue;
+    border: 1px solid cadetblue;
+}
+
+#user {
+    color: white;
+    padding: 12px;
+    background-color: cadetblue;
+}
+
+#user:hover {
+    cursor:pointer;
+    background-color: lightblue;
+    border: 1px solid cadetblue;
+}
+
+div {
+    
+    background-color: lightsteelblue;
+}
+div #menu {
+    color: white;
+    padding: 12px;
+}
+div #menu:hover {
+    cursor:pointer;
+    background-color: steelblue;
+    
+}
+p { 
+    float: left;
+    width:12%;
+}
+#dot {
+    color: white;
+}
+#dot:hover {
+    cursor: pointer;
+}
+p > #box1:hover {
+    cursor: pointer;
+    background-color: rgb(152, 189, 219);
+}
+p > #box2:hover {
+    cursor: pointer;
+    background-color: rgb(152, 189, 219);
+}
+p > #box3:hover {
+    cursor: pointer;
+    background-color: rgb(152, 189, 219);
+}
+#pen {
+    color:white;
+    position: absolute;
+    padding: 5px 5px;
+    left:150px;
+    }
+#pe {
+     color:white;
+     position: absolute;
+     padding: 5px 5px;
+     left:150px;
+    }
+#p {
+    color:white;
+    position: absolute;
+    padding: 5px 5px;
+    left:150px;
+    } 
+
+#pl{
+   padding-left: 10px;
+}
+#pl:hover {
+    cursor: pointer;
+} 
+p > #box4:hover {
+    cursor: pointer;
+    background-color: rgb(152, 189, 219);
+}
+#pencil {
+    color:white;
+    position: absolute;
+    padding: 5px 5px;
+    left:150px;
+}
+p > #box5 { 
+    height: 5em;
+}
+p > button {
+    size: 20px;
+}
+p > #bt:hover {
+    cursor: pointer;
+    background-color: lightseagreen;
+}
+#x:hover {
+    padding: 1%;
+    cursor: pointer;
+    background-color: rgb(152, 189, 219);
+}
+
+p > #box6:hover {
+    cursor: pointer;
+    background-color: rgb(152, 189, 219);
+}
+p > #box7:hover {
+    cursor: pointer;
+    background-color: rgb(152, 189, 219);
+}
+p > #box8 { 
+    height: 5em;
+}
